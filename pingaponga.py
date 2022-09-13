@@ -15,7 +15,7 @@ def main():
 
     image_player = 'platform.jpeg'
     image_ball = 'ball.jpeg'
-    win_back = 'fon.png'
+    win_back = 'fon2.png'
 
     win_width = 900
     win_height = 600
